@@ -1,0 +1,112 @@
+shortest path to 0: 55 5 0: cost = 2289
+shortest path to 1: 55 5 13 1: cost = 3552
+shortest path to 2: 55 5 44 2: cost = 3455
+shortest path to 3: 55 69 88 3: cost = 3501
+shortest path to 4: 55 5 61 4: cost = 3385
+shortest path to 5: 55 5: cost = 1098
+shortest path to 6: 55 69 88 3 6: cost = 4646
+shortest path to 7: 55 69 17 59 7: cost = 4888
+shortest path to 8: 55 5 44 8: cost = 3517
+shortest path to 9: 55 69 88 3 9: cost = 4699
+shortest path to 10: NO PATH
+shortest path to 11: 55 69 11: cost = 2387
+shortest path to 12: 55 5 49 87 12: cost = 4635
+shortest path to 13: 55 5 13: cost = 2325
+shortest path to 14: 55 69 14: cost = 2363
+shortest path to 15: 55 5 61 68 100 80 15: cost = 7050
+shortest path to 16: NO PATH
+shortest path to 17: 55 69 17: cost = 2424
+shortest path to 18: NO PATH
+shortest path to 19: 55 5 89 33 19: cost = 4696
+shortest path to 20: 55 69 20: cost = 2407
+shortest path to 21: 55 5 44 21: cost = 3402
+shortest path to 22: NO PATH
+shortest path to 23: NO PATH
+shortest path to 24: NO PATH
+shortest path to 25: NO PATH
+shortest path to 26: 55 69 26: cost = 2435
+shortest path to 27: NO PATH
+shortest path to 28: 55 69 28: cost = 2356
+shortest path to 29: 55 5 29: cost = 2249
+shortest path to 30: NO PATH
+shortest path to 31: NO PATH
+shortest path to 32: NO PATH
+shortest path to 33: 55 5 89 33: cost = 3448
+shortest path to 34: 55 5 49 87 90 34: cost = 5888
+shortest path to 35: 55 5 44 35: cost = 3437
+shortest path to 36: 55 5 51 36: cost = 3486
+shortest path to 37: NO PATH
+shortest path to 38: 55 5 89 33 38: cost = 4595
+shortest path to 39: 55 69 39: cost = 2466
+shortest path to 40: NO PATH
+shortest path to 41: 55 110 41: cost = 2290
+shortest path to 42: 55 5 42: cost = 2329
+shortest path to 43: 55 69 43: cost = 2372
+shortest path to 44: 55 5 44: cost = 2267
+shortest path to 45: NO PATH
+shortest path to 46: NO PATH
+shortest path to 47: 55 110 47: cost = 2261
+shortest path to 48: 55 5 48: cost = 2310
+shortest path to 49: 55 5 49: cost = 2170
+shortest path to 50: NO PATH
+shortest path to 51: 55 5 51: cost = 2295
+shortest path to 52: 55 5 52: cost = 2303
+shortest path to 53: 55 5 53: cost = 2211
+shortest path to 54: 55 69 54: cost = 2450
+shortest path to 55: 55: cost = 0
+shortest path to 56: 55 69 88 56: cost = 3547
+shortest path to 57: NO PATH
+shortest path to 58: NO PATH
+shortest path to 59: 55 69 17 59: cost = 3670
+shortest path to 60: NO PATH
+shortest path to 61: 55 5 61: cost = 2179
+shortest path to 62: 55 110 62: cost = 2254
+shortest path to 63: NO PATH
+shortest path to 64: NO PATH
+shortest path to 65: 55 5 83 65: cost = 3390
+shortest path to 66: NO PATH
+shortest path to 67: 55 5 61 67: cost = 3419
+shortest path to 68: 55 5 61 68: cost = 3399
+shortest path to 69: 55 69: cost = 1249
+shortest path to 70: NO PATH
+shortest path to 71: NO PATH
+shortest path to 72: 55 5 49 72: cost = 3403
+shortest path to 73: 55 5 0 73: cost = 3506
+shortest path to 74: 55 69 74: cost = 2451
+shortest path to 75: 55 5 75: cost = 2166
+shortest path to 76: NO PATH
+shortest path to 77: 55 5 77: cost = 2313
+shortest path to 78: 55 5 78: cost = 2264
+shortest path to 79: 55 110 79: cost = 2318
+shortest path to 80: 55 5 61 68 100 80: cost = 5810
+shortest path to 81: NO PATH
+shortest path to 82: 55 69 82: cost = 2318
+shortest path to 83: 55 5 83: cost = 2203
+shortest path to 84: 55 69 84: cost = 2390
+shortest path to 85: 55 69 85: cost = 2409
+shortest path to 86: 55 69 86: cost = 2310
+shortest path to 87: 55 5 49 87: cost = 3416
+shortest path to 88: 55 69 88: cost = 2348
+shortest path to 89: 55 5 89: cost = 2210
+shortest path to 90: 55 5 49 87 90: cost = 4647
+shortest path to 91: NO PATH
+shortest path to 92: 55 69 92: cost = 2435
+shortest path to 93: 55 5 93: cost = 2346
+shortest path to 94: NO PATH
+shortest path to 95: 55 5 95: cost = 2201
+shortest path to 96: NO PATH
+shortest path to 97: 55 110 97: cost = 2303
+shortest path to 98: 55 5 61 68 98: cost = 4633
+shortest path to 99: 55 5 49 99: cost = 3356
+shortest path to 100: 55 5 61 68 100: cost = 4598
+shortest path to 101: 55 110 62 111 101: cost = 4724
+shortest path to 102: 55 5 102: cost = 2321
+shortest path to 103: 55 69 103: cost = 2415
+shortest path to 104: NO PATH
+shortest path to 105: 55 5 83 105: cost = 3439
+shortest path to 106: 55 5 49 106: cost = 3405
+shortest path to 107: 55 69 107: cost = 2485
+shortest path to 108: 55 110 108: cost = 2334
+shortest path to 109: 55 69 109: cost = 2476
+shortest path to 110: 55 110: cost = 1085
+shortest path to 111: 55 110 62 111: cost = 3494
